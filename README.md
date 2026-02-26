@@ -4,6 +4,7 @@ XNews is a full-stack news aggregation web application that fetches and displays
 This project was designed as an end-to-end web application integrating third-party news APIs with a dynamic frontend for seamless, real-time news consumption.
 ________________________________________
 🚀 Key Features
+
 •	Fetched real-time news articles from external REST APIs (e.g., NewsAPI)
 •	Implemented category-based filtering (Technology, Sports, Business, Health, etc.)
 •	Built keyword-based search to find relevant articles instantly
@@ -13,6 +14,7 @@ ________________________________________
 •	Handled API errors and edge cases with robust exception handling
 ________________________________________
 🏗 Architecture Highlights
+
 •	MVC Design Pattern — Clear separation between Model, View, and Controller layers
 •	Service Layer Abstraction — Business logic decoupled from controllers for reusability
 •	REST API Integration — Modular API client for fetching and parsing news data
@@ -21,5 +23,6 @@ ________________________________________
 •	Stateless Backend — Each request is independently processed for scalability
 ________________________________________
 🛠 Tech Stack
+
 Backend: Java • Spring Boot • REST APIs (NewsAPI) • Jackson
 Build & Tools: Maven / Gradle • Git 
