@@ -24,6 +24,7 @@ dependencies {
 	implementation 'com.fasterxml.jackson.core:jackson-databind:2.17.1'
 
 // TODO: CRIO_TASK_MODULE_PROJECT
+	implementation 'com.squareup.okhttp3:okhttp:4.12.0'
 // Ensure to include the okhttp3 dependency with version 4.12.0. 
 // You can find the Gradle implementation statement on mvnrepository.com.
 
